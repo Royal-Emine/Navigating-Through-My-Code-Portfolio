@@ -56,7 +56,7 @@ I eagerly seek to broaden my horizons and contribute meaningfully to these dynam
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Royal-Emine&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Royal-Emine&theme=merko&hide_border=false" alt="Sanchita's Github Stats ">
+  <img src="https://camo.githubusercontent.com/381738aef0d06a42d27078f223a2e3e896971b82a1c4e7d9750d951f3c88db6d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d526f79616c2d456d696e65267468656d653d6d65726b6f2673686f775f69636f6e733d7472756526686964655f626f726465723d66616c736526636f756e745f707269766174653d74727565" alt="Sanchita's Github Stats ">
 </p>
 
 - Here are some insights into my GitHub activity and contributions.
